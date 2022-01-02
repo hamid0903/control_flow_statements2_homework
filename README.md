@@ -1,5 +1,5 @@
 # Welcome
-# elif statements
+# Control flow statements(min,max,index,case)
 
 Automated grading of homework assignments and tests
 - fork this repository
