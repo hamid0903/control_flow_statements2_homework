@@ -30,5 +30,5 @@ def main(n):
         inx=5
 
     return inx
-x=main(98765)
+x=main(54892)
 print(x)
