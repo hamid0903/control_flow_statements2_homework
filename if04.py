@@ -13,4 +13,5 @@ def main(a,b):
         return a
     else:
         return b
-        
+x=main(5,10)
+print(x)
