@@ -14,3 +14,5 @@ def main(a,b,c):
     if c > mx:
         mx = c
     return mx
+x=main(3,2,1)
+print(x)
