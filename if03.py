@@ -11,7 +11,7 @@ def main(a,b,c):
     m=a
     if b>m and b<c:
         m=b
-    elif c>m and c<b:
+    else:
         m=c
     return m
 x=main(10,30,20)
